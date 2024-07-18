@@ -1,5 +1,5 @@
-# Lesson Plan Template
-This file serves as the primary lesson plan document for the repository.
+# Lesson plan test
+This file serves as a test for creating lesson plans.
 
 ## Template Description
 [Click here for more information about what this template repository contains.](TemplateDescription.md)
